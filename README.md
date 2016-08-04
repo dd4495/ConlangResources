@@ -12,7 +12,7 @@
 * Click either the **Powershell** or **Powershell ISE** icon. 
 * After Powershell opens, type 
 		
-		cd C:\\*savefolder* 
+		cd C:\savefolder 
 
 	where *savefolder* is the folder in which you saved the script.
 	* If your browser automatically saves downloaded files, the script will likely be in your Downloads folder.
